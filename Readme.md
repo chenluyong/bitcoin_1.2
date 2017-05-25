@@ -12,7 +12,7 @@ On the basis of a minimalist continuously detailed, add some detailed function, 
 
 A good project, without your support and participation, welcome you to join us
 
-` note: if we are lucky enough to get your project, please tell us, we will put your company's software released into the Wiki
+`note: if we are lucky enough to get your project, please tell us, we will put your company's software released into the Wiki`
 
 
 
@@ -21,10 +21,10 @@ A good project, without your support and participation, welcome you to join us
 
 Name | Introduce | Addr | Status
 ------- | ------- | ------- | ------- 
-OEasyMessage | Qt Message pop-up view interface tools | [[Go]](http://git.oschina.net/Mr_ChenLuYong/oeasymessage) | underway
-OEasyHelp | All kinds of helper classes, including pure c + +, Qt | [[Go]](http://git.oschina.net/Mr_ChenLuYong/oeasyhelp) | underway
+OEasyMessage | Qt Message pop-up view interface tools | [[Go]](https://github.com/chenluyong/OEasyMessage) | underway
+OEasyHelp | All kinds of helper classes, including pure c + +, Qt | [[Go]](https://github.com/chenluyong/OEasyHelper) | underway
 OEasyPool | Pure c + + 11 thread pool | [[Go]](http://git.oschina.net/Mr_ChenLuYong/oeasypool) | stop
-OEasyScreenshot | Based on the Qt screenshots tools, high imitation QQ screenshots | [[Go]](http://git.oschina.net/Mr_ChenLuYong/screenshot) | underway
+OEasyScreenshot | Based on the Qt screenshots tools, high imitation QQ screenshots | [[Go]](https://github.com/chenluyong/OEasyScreenshot) | underway
 
 
 
